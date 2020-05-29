@@ -3,12 +3,17 @@ Bacon Spinach Eggplant Stacks
 
 ## Ingredients
 
-2   eggplants
-1   jar pasta sauce
-3   strips thick cut bacon
-??? cup spinach
-??? moz cheese
-??? parmesan cheese
+2 eggplants
+
+1 jar pasta sauce
+
+3 strips thick cut bacon
+
+1 cup spinach
+
+1/2 cup moz cheese
+
+1/4 cup parmesan cheese
 
 
 ## Steps
