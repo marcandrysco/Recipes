@@ -21,7 +21,7 @@ Bacon Spinach Eggplant Stacks
 1. Wash the eggplants and cut them into 0.5in slices. Optionally peel the
 eggplant.
 
-![](img/bacon_spinach_eggplant_01.img)
+![Image1](img/bacon_spinach_eggplant_01.img)
 
 2. Liberally salt the eggplant and set aside for 60 minutes.
 
