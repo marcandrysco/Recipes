@@ -36,9 +36,9 @@ eggplant.
 5. Place the eggplant in a 9x12 baking pan, and bake in the oven for 30
 minutes.
 
-![Image3](img/bacon_spinach_eggplant_03.jpg)
-
 +30 minutes
+
+![Image3](img/bacon_spinach_eggplant_03.jpg)
 
 6. Remove eggplant from the oven and place to the side to cool.
 
@@ -62,4 +62,4 @@ until you are out of eggplant.
 
 ![Image6](img/bacon_spinach_eggplant_06.jpg)
 
-12. Remove from the oven and let sit for 10 minutes before eating.
+12. Remove from the oven and let sit before eating.
